@@ -143,5 +143,5 @@
     - `git status`: Check the status of the repository.
 
 # ==============================================
-# End of Linux Commands for DevOps Engineers
+# End of Linux Commands for DevOps Engineers 🧑‍💻
 # ==============================================
