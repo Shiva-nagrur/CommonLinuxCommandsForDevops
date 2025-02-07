@@ -142,6 +142,6 @@
     - `git push`: Push changes to a remote repository.
     - `git status`: Check the status of the repository.
 
-# ==============================================
+# ========================================
 # End of Linux Commands for DevOps Engineers 🧑‍💻
-# ==============================================
+# ========================================
